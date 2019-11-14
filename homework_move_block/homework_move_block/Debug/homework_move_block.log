@@ -1,0 +1,12 @@
+﻿  homework_move_block.cpp
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(194): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(233): warning C4244: “初始化”: 从“GLint”转换到“GLfloat”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(234): warning C4244: “初始化”: 从“GLint”转换到“GLfloat”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(237): warning C4244: “参数”: 从“GLfloat”转换到“GLint”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(238): warning C4244: “参数”: 从“GLfloat”转换到“GLint”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(318): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\homework_move_block\homework_move_block\homework_move_block.cpp(330): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“D:\space for vs\homework_move_block\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  homework_move_block.vcxproj -> D:\space for vs\homework_move_block\Debug\homework_move_block.exe

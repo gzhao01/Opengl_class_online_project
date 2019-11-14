@@ -1,3 +1,4 @@
 ﻿  soil_class.cpp
-d:\space for vs\soil_class\soil_class\soil_class.cpp(306): warning C4305: “初始化”: 从“double”到“float”截断
+d:\space for vs\soil_class\soil_class\soil_class.cpp(82): warning C4305: “初始化”: 从“double”到“float”截断
+d:\space for vs\soil_class\soil_class\soil_class.cpp(177): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
   soil_class.vcxproj -> D:\space for vs\soil_class\Debug\soil_class.exe

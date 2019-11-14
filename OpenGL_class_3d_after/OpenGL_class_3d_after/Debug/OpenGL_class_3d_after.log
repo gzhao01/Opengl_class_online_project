@@ -1,0 +1,10 @@
+﻿  OpenGL_class_3d_after.cpp
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(180): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(289): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(290): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(293): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(294): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(296): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(297): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d_after\opengl_class_3d_after\opengl_class_3d_after.cpp(304): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGL_class_3d_after.vcxproj -> D:\space for vs\OpenGL_class_3d_after\Debug\OpenGL_class_3d_after.exe

@@ -1,0 +1,18 @@
+﻿  OpenGL_class_3D.cpp
+d:\space for vs\opengl_class_3d\opengl_class_3d\opengl_class_3d.cpp(172): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_class_3d\opengl_class_3d\opengl_class_3d.cpp(216): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_class_3d\opengl_class_3d\opengl_class_3d.cpp(217): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_class_3d\opengl_class_3d\opengl_class_3d.cpp(218): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  OpenGL_class_3D.vcxproj -> D:\space for vs\OpenGL_class_3D\Debug\OpenGL_class_3D.exe
