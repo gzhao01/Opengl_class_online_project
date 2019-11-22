@@ -1,0 +1,38 @@
+﻿  finalExam.cpp
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(285): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(349): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(350): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(351): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(549): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(550): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(553): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(554): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(556): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(557): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(564): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(592): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(612): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(613): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(627): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\finalexam\finalexam\finalexam.cpp(628): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  finalExam.vcxproj -> D:\space for vs\OpenGL_git仓库\finalExam\Debug\finalExam.exe

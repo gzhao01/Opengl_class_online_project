@@ -1,0 +1,18 @@
+﻿  Opengl_last_test.cpp
+d:\space for vs\opengl_git仓库\opengl_last_test\opengl_last_test\opengl_last_test.cpp(268): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\space for vs\opengl_git仓库\opengl_last_test\opengl_last_test\opengl_last_test.cpp(329): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\opengl_last_test\opengl_last_test\opengl_last_test.cpp(330): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\space for vs\opengl_git仓库\opengl_last_test\opengl_last_test\opengl_last_test.cpp(331): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  Opengl_last_test.vcxproj -> D:\space for vs\OpenGL_git仓库\Opengl_last_test\Debug\Opengl_last_test.exe
